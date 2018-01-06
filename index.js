@@ -18,7 +18,7 @@ function inc(n) {
   return n+1;
 }
 
-function decrement(n) {
+function dec(n) {
   return n-1;
 }
 
